@@ -1,0 +1,13 @@
+{
+  "name": "clase-3",
+  "version": "1.0.0",
+  "description": "1. Crear la Carpeta del proyecto\r 2. Iniciar Proyecto npm init o npm init -y",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
