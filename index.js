@@ -1,5 +1,6 @@
 const http = require('http');
 
+//puerto aunque el 3000 lo uso en react
 const PORT = 3000;
 
 const server = http.createServer((req, res) => {
