@@ -1,7 +1,5 @@
 const http = require('http');
 
-const http = require('');
-const { isCryptoKey } = require('util/types');
 const PORT = 3000;
 
 const server = http.createServer((req, res) => {
